@@ -13,4 +13,4 @@ Console.WriteLine("================");
 var mathRounding = 15987.56m;
 Console.WriteLine(Math.Round(mathRounding));
 Console.WriteLine(Math.Ceiling(mathRounding)); // (Ceiling up valor)
-Console.WriteLine(Math.Floor(mathRounding)); // (Floor up valor)
+Console.WriteLine(Math.Floor(mathRounding)); // (Floor down valor)
